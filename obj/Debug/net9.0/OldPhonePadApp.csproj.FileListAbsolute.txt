@@ -1,0 +1,28 @@
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfoInputs.cache
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfo.cs
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.csproj.CoreCompileInputs.cache
+D:\C# Assignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.exe
+D:\C# Assignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.deps.json
+D:\C# Assignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.runtimeconfig.json
+D:\C# Assignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.dll
+D:\C# Assignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.pdb
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.dll
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\refint\OldPhonePadApp.dll
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.pdb
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.genruntimeconfig.cache
+D:\C# Assignment\OldPhonePadApp\obj\Debug\net9.0\ref\OldPhonePadApp.dll
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfoInputs.cache
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfo.cs
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.csproj.CoreCompileInputs.cache
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.dll
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\refint\OldPhonePadApp.dll
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.pdb
+D:\CSharpAssignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.exe
+D:\CSharpAssignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.deps.json
+D:\CSharpAssignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.runtimeconfig.json
+D:\CSharpAssignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.dll
+D:\CSharpAssignment\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.pdb
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.genruntimeconfig.cache
+D:\CSharpAssignment\OldPhonePadApp\obj\Debug\net9.0\ref\OldPhonePadApp.dll
